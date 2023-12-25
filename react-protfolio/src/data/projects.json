@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Graduation Project",
+    "imageSrc": "projects/project.png",
+    "description": "Colon cancer detection using microarray data analysis.",
+    "skills": ["Flutter Api", "Python", "Figma"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/MalekAshraf/Projects?tab=readme-ov-file#projects"
+  },
+  {
+    "title": "My Protfolio",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Vite", "JS", "Css"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

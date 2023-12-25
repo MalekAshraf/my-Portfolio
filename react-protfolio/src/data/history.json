@@ -1,0 +1,33 @@
+[
+  {
+    "role": "Front-End Developer",
+    "organisation": "ITI",
+    "startDate": "Jul, 2022",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "imageSrc": "history/iti.png"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "Military Acadmy",
+    "startDate": "Dec, 2022",
+    "endDate": "Dec, 2023",
+    "experiences": [
+      "Helped create UI components",
+      "Using Office365 app",
+      "Vedio Editting"
+    ],
+    "imageSrc": "history/egal.png"
+  },
+  {
+    "role": "Mobile App Development",
+    "organisation": "Camp Cooding",
+    "startDate": "Jun, 2020",
+    "endDate": "Jul, 2020",
+    "experiences": [
+      "Develop a front-end mobile app",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/camp.png"
+  }
+]
